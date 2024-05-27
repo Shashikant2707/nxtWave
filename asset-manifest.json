@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nxtWave/static/css/main.45e8deaa.css",
+    "main.js": "/nxtWave/static/js/main.36b3d09c.js",
+    "static/js/453.5274e363.chunk.js": "/nxtWave/static/js/453.5274e363.chunk.js",
+    "index.html": "/nxtWave/index.html",
+    "main.45e8deaa.css.map": "/nxtWave/static/css/main.45e8deaa.css.map",
+    "main.36b3d09c.js.map": "/nxtWave/static/js/main.36b3d09c.js.map",
+    "453.5274e363.chunk.js.map": "/nxtWave/static/js/453.5274e363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e8deaa.css",
+    "static/js/main.36b3d09c.js"
+  ]
+}
